@@ -1,0 +1,23 @@
+{
+    "name": "Taiko",
+    "website": "https://taiko.xyz/",
+    "description": "Taiko is a fully permissionless, Ethereum-equivalent based rollup. Inspired, secured, and sequenced by Ethereum.",
+    "explorer": "https://taikoscan.network/",
+    "research": "https://taiko.xyz/",
+    "symbol": "ETH",
+    "type": "coin",
+    "coin_type": 8453,
+    "decimals": 18,
+    "status": "active",
+    "rpc_url": "https://rpc.taiko.xyz",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/taikoxyz"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/taikoxyz"
+        }
+    ]
+}
